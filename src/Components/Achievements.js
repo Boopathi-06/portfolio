@@ -6,7 +6,7 @@ function Achievements() {
   const achievements = [
     {
       title: "‘O’ Grade in Siemens NX Internship",
-      year: "2024 to 2025",
+      year: "2024",
       details: "Completed internship with top grade in Siemens NX CoE, MIT."
     },
     {
